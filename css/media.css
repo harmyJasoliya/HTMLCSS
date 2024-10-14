@@ -1,0 +1,423 @@
+@media (max-width:1200px) {
+    .w-1140{
+        width: 1140px;
+        margin: auto;
+    }   
+
+/* drop down */
+.w-80 ul{
+   column-gap: 20px;
+}
+
+}
+@media (max-width:1200px) {
+    .w-1140{
+        width: 960px;
+    } 
+      /*big img  */
+      .rightar,
+      .leftar{
+         top: 200px;
+      }
+      /* about us */
+      .w-60{
+        width: 60%;
+        font-size: 13px;
+    }
+    .video .w-40 {
+        width: 50%;
+        margin-top: 20px;
+        margin-left: -30px;
+       
+    }
+    .w-40 img{
+        width: 100%;
+    }
+    /* keybord-icon */
+.i1,
+.i2,
+.i3,
+.i4{
+    font-size: 16px;
+}
+.RECRUITMENT img{
+   margin: auto;
+   width: 14%;
+   }
+}
+@media (max-width:992px) {
+    .w-1140{
+        width: 780px;
+    }
+    .none{
+        display: none;
+    }
+    .header .header-left{
+        width: 22.33%;
+    }
+
+    .header .header-center{
+        width: 76.33%;
+    }
+    /* drop down */
+    .w-20 img{
+        width: 100%;
+    }
+    .w-80{
+        display: none;
+    }
+    .w-801 {
+        display: block;
+        margin-left: 600px;
+        top: 16px;
+
+    }
+    /*big img  */
+    .rightar,
+    .leftar{
+       top: 160px;
+    }
+    /* course card */
+    .w-33{
+        width: calc(50% - 30px);
+    }
+    .head1{
+        padding-top: 15px;
+    padding-bottom: 15px;
+    }
+     /* about us */
+     .w-60{
+        width: 90%;
+        font-size: 16px;
+        order: 2;
+        padding: 10px;
+        margin-left: 40px;
+        border-radius: 0;
+    }
+    .video .w-40 {
+        width: 90%;
+        margin-top: 20px;
+        margin-left: 40px;
+        order: 1;
+       
+    }
+    .w-40 img{
+        width: 100%;
+    }
+    .video .flex{
+        flex-wrap: wrap;
+    }
+   
+   /* alumni */
+  .alumni .flex{
+    flex-wrap:wrap;
+   }
+  .w-39,
+   .w-61{
+    width:100%;
+   }
+
+   .head1{
+    margin-top:30px ;
+    margin-bottom: 30px;
+   }
+ /* circle-card */
+ .boxsq{
+    width: calc(29% - 10px);
+   }
+   /* last part */
+   .last .w-45,
+   .last .w-25,
+   .last .w-35{
+    width: 100%;
+   }
+   .last .w-45{
+       margin-top: 80px;
+   }
+   .last{
+    display: inline-block;
+    margin:10px 30px 10px 30px;
+   }
+   
+   .dark {
+  margin-left: -80px;
+  width: 100%;
+   }
+}
+@media (max-width:768px) { 
+    .w-1140 {
+        width: 650px;
+    }
+    .header .flex{
+        flex-wrap: nowrap;
+    }
+    .header  .header-left{
+        display: none;
+    }
+    .header-center .flex {
+        width: 50%;
+        
+    }
+    .header .header-right{
+       width: 50%;
+
+    }
+    /* drop down */
+    .w-20 img{
+        width: 150%;
+    }
+    .w-80{
+        display: none;
+    }
+    .w-801 {
+        display: block;
+        margin-left: 400px;
+        top: 8px;
+
+    }
+    /*big img  */
+    .rightar,
+    .leftar{
+       top: 120px;
+    }
+    .rightar i,
+    .leftar i{
+       font-size:30px;  
+    }
+
+   /* course card */ 
+    .w-33{
+        width: calc(50% - 30px);
+    } 
+.view{
+    text-align: center;
+} 
+.flex{
+    flex-wrap: wrap;
+} 
+.i1,
+.i2,
+.i3,
+.i4{
+    width: 50%;
+}
+ /* circle-card */
+.choose{
+    text-align: center;
+   }
+   .choose  .boxsq{
+    width: calc(44% - 10px);
+    text-align: center;
+   }
+   .boxsq .cir1,
+   .boxsq .cir2,
+   .boxsq .cir3,
+   .boxsq .cir4,
+   .boxsq .cir5,
+   .boxsq .cir6{
+    text-align: center;
+   }
+
+    /* last part */
+    .last .w-45,
+    .last .w-25,
+    .last .w-35{
+     width: 100%;
+    }
+    .last .w-45{
+        margin-top: 80px;
+    }
+    .last{
+     display: inline-block;
+     margin:10px 30px 10px 30px;
+    }
+    
+    .dark {
+   margin-left: -80px;
+   width: 100%;
+    }
+}
+@media (max-width:650px) {
+    .w-1140 {
+        width: 576px;
+    }
+    /* circle card */
+    /* circle-card */
+.choose{
+    text-align: center;
+   }
+   .choose  .boxsq{
+    width: calc(44% );
+    text-align: center;
+   }
+  .boxsq .cir1,
+  .boxsq .cir2,
+  .boxsq .cir3,
+  .boxsq .cir4,
+  .boxsq .cir5,
+  .boxsq .cir6{
+    margin: auto;
+   }
+}
+@media (max-width:576px) {
+    .w-1140 {
+        width: 460px;
+    }
+    .header .flex{
+        flex-wrap: wrap;
+    }
+    .header .header-right{
+        width: 100%;
+    }
+
+    .header .header-center{
+        width: 100%;
+    }
+    .header-center .flex {
+        justify-content: center;
+    }
+    .header .header-right .flex{
+        width: 100%;
+        justify-content: center;
+    } 
+/* drop down */
+.w-20 img{
+    width: 200%;
+}
+.w-80{
+    display: none;
+}
+.w-801 {
+    display: block;
+    margin-left: 300px;
+    top: 150px;
+
+}
+/*big img  */
+.rightar,
+.leftar{
+   top: 90px;
+}
+.rightar i,
+.leftar i{
+   font-size: large; 
+}
+ /* course card */
+ .w-33{
+    width: calc(100% - 20px);
+}
+.view button{
+   text-align: center;
+}
+ /* about us */
+ .w-60{
+    margin-left:20px ;
+    font-size: 15px;
+ }
+ .video .w-40 {
+    margin-left: 20px;
+ }
+  /* circle-card */
+ .choose .boxsq{
+    width:100%;
+   }
+   .boxsq .cir1,
+   .boxsq .cir2,
+   .boxsq .cir3,
+   .boxsq .cir4,
+   .boxsq .cir5,
+   .boxsq .cir6{
+     margin:auto;
+   }
+   /* last part */
+   .last .w-45,
+   .last .w-25,
+   .last .w-35{
+    width: 100%;
+   }
+   .last .w-45{
+    margin-top: 25px;
+   }
+   .last{
+    display: inline-block;
+    margin:10px 30px 10px 30px;
+   }
+   
+   .dark {
+  margin-left: -90px;
+   }
+}
+@media (max-width:460px) {
+    .w-1140 {
+        width: 370px;
+    }
+    
+    .w-801 {
+            display: block;
+            margin-left: 200px;
+            top: 150px;
+        
+    }
+    /*big img  */
+    .rightar,
+    .leftar{
+       top: 60px;
+
+    }
+    .rightar i,
+    .leftar i{
+       font-size: large;
+       
+    }
+    /* course card */
+    .w-33{
+        width: 100%;
+    }
+    .view button{
+       text-align: center;
+    }
+    .head1{
+        font-size:smaller;
+    }
+    
+}
+@media (max-width:340px) {
+    .w-1140 {
+        width: 290px;
+    }
+     /* circle-card */
+   .boxsq .cir1,
+   .boxsq .cir2,
+   .boxsq .cir3,
+   .boxsq .cir4,
+   .boxsq .cir5,
+   .boxsq .cir6{
+     margin: auto;
+   }
+   /* last part */
+   .last .w-45,
+   .last .w-25,
+   .last .w-35{
+    width: 100%;
+   }
+   .last .w-45{
+    margin-top: 25px;
+   }
+   .last{
+    display: inline-block;
+    margin:10px 30px 10px 30px;
+   }
+   
+   .dark {
+  margin-left: -90px;
+   }
+}
+@media (max-width:290px) {
+    .w-1140 {
+        width: 240px;
+    }
+     /* circle-card */
+   .boxsq{
+    width:calc(100% - 20px)
+   }
+}
